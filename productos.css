@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Sriracha', cursive;
+}
+
+body{
+    background-color: orange;
+}
+
+#enlaces{
+    text-indent: 40px;
+    background-color: rgb(138, 216, 221);
+    
+}
+
+.enlace1{
+    border: black 1px solid;
+}
+
+.enlace2{
+    border: black 1px solid;
+}
+
+.enlace3{
+    border: black 1px solid;
+}
+
+.enlace4{
+    border: black 1px solid;
+}
+
+ul{
+    list-style-type: hiragana;
+    background-color: #FFFFE0;
+    
+    }
+
+    #back{
+        background-color: rgb(233, 109, 60);
+    }
+    p.fin{
+        text-align: center;
+    }
+    .sub{
+        background-color: yellow;
+    }

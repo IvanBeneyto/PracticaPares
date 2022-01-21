@@ -1,0 +1,89 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Sriracha', cursive;
+}
+
+body{
+    background-color: orange;
+}
+
+#enlaces{
+    text-indent: 40px;
+    background-color: rgb(138, 216, 221);
+    
+}
+
+.enlace1{
+    border: black 1px solid;
+}
+
+.enlace2{
+    border: black 1px solid;
+}
+
+.enlace3{
+    border: black 1px solid;
+}
+
+.enlace4{
+    border: black 1px solid;
+}
+
+#centro{
+    background-color: white;
+}
+
+p.azul{
+    color: blue;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+img.izq {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#steve{
+    border-top: blue 15px solid;
+    border-bottom: blue 15px solid;
+    background-color: white;
+}
+
+#mac{
+    border-top: red 15px solid;
+    border-bottom: red 15px solid;
+    background-color: rgb(138, 216, 221);
+}
+
+img.drc {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+p.rojo{
+    color: red;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#centro2{
+    background-color: rgb(138, 216, 221);
+}
+
+#back{
+    background-color: rgb(233, 109, 60);
+}
+p.fin{
+    text-align: center;
+}
+.sub{
+    background-color: yellow;
+}
